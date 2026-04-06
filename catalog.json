@@ -1,0 +1,82 @@
+[
+  {
+    "id": "m001",
+    "title": "Echoes of Tomorrow",
+    "description": "A gripping sci-fi thriller about a scientist who discovers a way to communicate with the past.",
+    "posterUrl": "https://picsum.photos/seed/m001/300/450",
+    "backdropUrl": "https://picsum.photos/seed/m001b/1280/720",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "type": "movie",
+    "genres": ["Sci-Fi", "Thriller"],
+    "rating": 8.2,
+    "year": 2023,
+    "durationMinutes": 118,
+    "isNew": true,
+    "isPopular": false,
+    "isFeatured": true,
+    "badge": "Featured"
+  },
+  {
+    "id": "m002",
+    "title": "The Silent Ocean",
+    "description": "A lone diver uncovers an ancient secret beneath the waves.",
+    "posterUrl": "https://picsum.photos/seed/m002/300/450",
+    "backdropUrl": "https://picsum.photos/seed/m002b/1280/720",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "type": "movie",
+    "genres": ["Drama", "Adventure"],
+    "rating": 7.6,
+    "year": 2022,
+    "durationMinutes": 102,
+    "isNew": false,
+    "isPopular": true
+  },
+  {
+    "id": "s001",
+    "title": "Dark Meridian",
+    "description": "A detective series following cold cases that intertwine across decades.",
+    "posterUrl": "https://picsum.photos/seed/s001/300/450",
+    "backdropUrl": "https://picsum.photos/seed/s001b/1280/720",
+    "type": "series",
+    "genres": ["Crime", "Drama"],
+    "rating": 9.1,
+    "year": 2023,
+    "isNew": true,
+    "isPopular": true,
+    "badge": "Popular",
+    "episodes": [
+      {
+        "id": "s001e01",
+        "title": "The Cold Trail",
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "description": "Detective Lena Marsh reopens a 20-year-old case.",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+        "durationMinutes": 48
+      },
+      {
+        "id": "s001e02",
+        "title": "Shadows in the Archive",
+        "episodeNumber": 2,
+        "seasonNumber": 1,
+        "description": "A crucial witness comes forward with startling evidence.",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "durationMinutes": 51
+      }
+    ]
+  },
+  {
+    "id": "d001",
+    "title": "Planet Unseen",
+    "description": "A breathtaking documentary exploring ecosystems never before filmed.",
+    "posterUrl": "https://picsum.photos/seed/d001/300/450",
+    "backdropUrl": "https://picsum.photos/seed/d001b/1280/720",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+    "type": "documentary",
+    "genres": ["Nature", "Documentary"],
+    "rating": 8.7,
+    "year": 2023,
+    "durationMinutes": 94,
+    "isNew": true
+  }
+]
