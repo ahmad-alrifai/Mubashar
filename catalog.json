@@ -3,7 +3,7 @@
     "id": "new0621",
     "title": "فيلم المحقق كونان 28 : ومضات من الماضي",
     "description": "بينما يطارد المفتش ياماجو كانسوكي رجلاً في جبال ناغانو الثلجية، ظهر ظلٌ مباغت فشتّت انتباهه، فأُطلقت رصاصة بندقية خدشت عينه اليسرى وأطلقت انهياراً هادراً. وبعد عشرة أشهر من نجاته العجيبة، يتلقى تقريراً عن تعرض باحث في مرصد نوبياما الفلكي لهجوم يثير الشكوك ويعيد فتح خيوط القضية الغامضة من جديد.",
-    "posterUrl": "https://conanaraby.com/wp-content/uploads/2025/12/%D9%81%D9%8A%D9%84%D9%85-%D8%A7%D9%84%D9%85%D8%AD%D9%82%D9%82-%D9%83%D9%88%D9%86%D8%A7%D9%86-28-%D9%88%D9%85%D8%B6%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A-%D9%85%D8%AF%D8%A8%D9%84%D8%AC-%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-552x748.jpg",
+    "posterUrl": "https://conanwiki.org/images/thumb/d/d3/Film_28-Plakat-jp.png/190px-Film_28-Plakat-jp.png",
     "backdropUrl": "https://conannews.org/wp-content/uploads/Film-28-Banner-800x445.png",
     "videoUrl": "https://ccdko80.com/videos/mov/conan-M-28-1080p.mp4",
     "type": "movie",
@@ -36,15 +36,45 @@
     "id": "new1455",
     "title": "المحقق كونان",
     "description": "سينشي كودو طالب في المرحلة الثانوية وهو طالب يتمتع بمواهب عديدة وبذكاء مذهل في تحليل القضايا وحلها , في أحد الأيام كان فيها برفقة خطيبته ران وقعت جريمة قتل إستطاع سنشي بمهارة حلها.. وكان من بين المشتبه بهم رجلان يرتدون معاطف سوداء , إكتشف سينشي أن لهم يد في قضية إبتزاز فحاول اللحاق بهم ولكنه تلقى ضربة على رأسه أفقدته الوعي .. فقرر الرجلان قتله بإستخدام عقار جديد تم صنعه من قبل عصابتهم وحين إستيقظ سينشي على أصوات رجال الشرطة.... إكتشف أن حجمه تقلص وأصبح صغير فعلم أن العقار هو السبب وراء تقلص حجمه فأخفى أمره ليستطيع أن يحل لغز العصابة السوداء ويعود لحجمه الطبيعي",
-    "posterUrl": "https://picsum.photos/300/450",
-    "backdropUrl": "https://picsum.photos/1280/720",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNGNjMjVmODYtMGMzZi00MWUyLTk1ZDQtYzI2ZTk2MmYzYTZiXkEyXkFqcGc@._V1_.jpg",
+    "backdropUrl": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=cover,format=auto,quality=85,width=1920/keyart/G6JQVM3ER-backdrop_wide",
     "videoUrl": "",
     "type": "series",
     "genres": [
-      "Drama"
+      "Anime",
+      "Mystery",
+      "Detective",
+      "Crime",
+      "Thriller",
+      "Suspense",
+      "Psychological",
+      "Drama",
+      "Police",
+      "Investigation",
+      "Case-solving",
+      "Forensics",
+      "Conspiracy",
+      "Action",
+      "Adventure",
+      "Shounen",
+      "Episodic",
+      "Genius Protagonist",
+      "Cat-and-Mouse",
+      "Secret Identity"
     ],
     "rating": 8.18,
     "year": 1996,
-    "durationMinutes": 24
+    "durationMinutes": 24,
+    "episodes": [
+      {
+        "id": "new1455e1",
+        "title": "أشهر متحرٍ في هذا العصر",
+        "episodeNumber": 1,
+        "seasonNumber": 1,
+        "description": "",
+        "videoUrl": "https://www.ccdko80.com/get_video.php?videos=c1/EP8.mp4",
+        "durationMinutes": 24
+      }
+    ]
   }
 ]
